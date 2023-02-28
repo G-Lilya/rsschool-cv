@@ -1,3 +1,3 @@
-# Lilya G
+# Lilya Mamishova
 
 ## Contacts
