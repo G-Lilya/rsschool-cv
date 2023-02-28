@@ -1,2 +1,3 @@
 # rsschool-cv
-# ttps://g-lilya.github.io/rsschool-cv/cv
+
+## https://g-lilya.github.io/rsschool-cv/cv
